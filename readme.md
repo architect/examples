@@ -22,6 +22,8 @@
 
 ## Example apps
 
+- [An example docs site (that also happens to be our real docs site)](https://github.com/arc-repos/arc.codes)
+
 - [Example login / logout flow](https://github.com/arc-repos/arc-example-login-flow)
 
 - [Example microblog publishing app](https://github.com/arc-repos/arc-example-microblog)
