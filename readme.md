@@ -33,3 +33,5 @@
 - [Example repo for working offline and locally](https://github.com/arc-repos/arc-example-working-locally) (see also [companion article](https://arc.codes/guides/offline))
 
 - [Random quote generator](https://github.com/arc-repos/arc-example-random-mitch-hedberg-quote)
+
+- [Example app to demonstrate views](https://github.com/arc-repos/arc-examples-views)
