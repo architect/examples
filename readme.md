@@ -2,6 +2,8 @@
 
 ## Working with functions
 
+- [Example using `@events` as background pub/sub tasks from a web app](https://github.com/arc-repos/arc-example-events-pubsub)
+
 - [Example app demonstrating long running persistent background tasks using an SNS event Lambda](https://github.com/arc-repos/arc-example-events-pubsub)
 
 - [Examples of common errors and how to handle them](https://github.com/arc-repos/arc-example-errors)
@@ -22,6 +24,8 @@
 
 ## Example apps
 
+- [Example app to demonstrate frontend patterns using `@views`](https://github.com/arc-repos/arc-examples-views)
+
 - [An example docs site (that also happens to be our real docs site)](https://github.com/arc-repos/arc.codes)
 
 - [Example login / logout flow](https://github.com/arc-repos/arc-example-login-flow)
@@ -33,5 +37,3 @@
 - [Example repo for working offline and locally](https://github.com/arc-repos/arc-example-working-locally) (see also [companion article](https://arc.codes/guides/offline))
 
 - [Random quote generator](https://github.com/arc-repos/arc-example-random-mitch-hedberg-quote)
-
-- [Example app to demonstrate views](https://github.com/arc-repos/arc-examples-views)
