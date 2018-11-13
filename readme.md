@@ -24,7 +24,9 @@
 
 ## Example apps
 
-- [Example app demonstrating frontend patterns using `@views`](https://github.com/arc-repos/arc-examples-views)
+- [Using `@views`](https://github.com/arc-repos/arc-examples-views)
+
+- [Serving ES Modules](https://github.com/arc-repos/arc-example-es-modules)
 
 - [An example docs site (that also happens to be our real docs site)](https://github.com/arc-repos/arc.codes)
 
