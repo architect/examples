@@ -2,6 +2,8 @@
 
 ## Working with functions
 
+- [Example of using WebSockets in Architect 5.0](https://github.com/arc-repos/arc-example-ws)
+
 - [Example using `@events` as background pub/sub tasks from a web app](https://github.com/arc-repos/arc-example-events-pubsub)
 
 - [Example app demonstrating long running persistent background tasks using an SNS event Lambda](https://github.com/arc-repos/arc-example-events-pubsub)
@@ -34,7 +36,9 @@
 
 - [Example login / logout flow](https://github.com/arc-repos/arc-example-login-flow)
 
-- [Example microblog publishing app](https://github.com/arc-repos/arc-example-microblog)
+- [Example note taking app with support for multiple users](https://github.com/arc-repos/arc-example-notes)
+
+- [Example app for loading static assets from either `/public` or a secure HTTP Kambda function](https://github.com/arc-repos/arc-example-simple-static-assets)
 
 - [An example Slack app](https://github.com/arc-repos/arc-example-slack-client)
 
