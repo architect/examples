@@ -23,6 +23,8 @@
 
 - [Example of persisting data with DynamoDB](https://github.com/architect-examples/arc-example-persist-data)
 
+- [Best Practices around Modeling Relational Data in DynamoDB](https://github.com/konsumer/arc-example) - this is a complete example app, with a focus on [the original AWS article](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html)
+
 
 ## Example apps
 
